@@ -31,8 +31,8 @@
 
 # 🏆 Cert & Achievements
 
-- 🥇 **AI Alphas Competition (AIAC) 2025** — Top 25 Globally, 7th in Vietnam
-- 🥇 **Python Alphas Competition (PAC) 2026** — Top 54 Globally, 5th in Vietnam
+- 🥇 **AI Alphas Competition (AIAC) 2025** — Top 25 Globally, 7th in Vietnam — [View Certificate](https://drive.google.com/file/d/1odmHcf0vUGe7lwWq93gBYiwoch2EbHfl/view?usp=drive_link)
+- 🥇 **Python Alphas Competition (PAC) 2026** — Top 54 Globally, 5th in Vietnam — [View Certificate](https://drive.google.com/file/d/1c_sYNL-aJs9ZUO_m7a-oWgr94luVI9YO/view?usp=drive_link)
 - 📜 **SQL (Advanced)** — HackerRank Certification — [View Certificate](https://www.hackerrank.com/certificates/6f3c3698df7f)
 - 💼 **JPMorgan Chase & Co.** — Quantitative Research Job Simulation (Forage, Feb 2026) — [Forage Certificate](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_690be8671773694e5ac644bd_1771080012740_completion_certificate.pdf)
 - 💼 **Deloitte** — Technology Job Simulation (Forage, Feb 2026) — [Forage Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_690be8671773694e5ac644bd_1771512814869_completion_certificate.pdf)
