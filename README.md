@@ -1,3 +1,9 @@
+<h1 align="center">Hi, I am Thinh 👋</h1>
+
+<h3 align="center">Analytics Engineering • System Design • Quant Research • IT BA</h3>
+
+---
+
 # 💻 Tech Stack
 
 ### Ngôn ngữ lập trình
@@ -13,13 +19,23 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%23382923.svg?style=flat&logo=dbeaver&logoColor=white)
 
 ### Message Queue & Streaming
-![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=flat&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=flat&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-%234285F4.svg?style=flat&logo=grpc&logoColor=white)
 
 ### API, Giám sát & ELK Stack
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white) ![Logstash](https://img.shields.io/badge/logstash-%23005571.svg?style=flat&logo=logstash&logoColor=white) ![Kibana](https://img.shields.io/badge/kibana-%23005571.svg?style=flat&logo=kibana&logoColor=white)
 
 ### DevOps & Công cụ
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+
+---
+
+# 🏆 Cert & Achievements
+
+- 🥇 **AI Alphas Competition (AIAC) 2025** — Top 25 Globally, 7th in Vietnam
+- 🥇 **Python Alphas Competition (PAC) 2026** — Top 54 Globally, 5th in Vietnam
+- 📜 **SQL (Advanced)** — HackerRank Certification
+- 💼 **JPMorgan Chase & Co.** — Quantitative Research Job Simulation (Forage, Feb 2026)
+- 💼 **Deloitte** — Technology Job Simulation (Forage, Feb 2026)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thinhthinhkinh&icon=0&color=0)](https://visitcount.itsvg.in)
